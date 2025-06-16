@@ -1,7 +1,8 @@
 # diagnose-faults-with-NeuralNetworks
 Digital System Fault Diagnosis using Artificial Neural Networks
+
 Project Overview:
-Project includes a complete pipeline from data preprocessing to neural network training and deployment through a Streamlit-based user interface.
+It includes a complete pipeline from data preprocessing to neural network training and deployment through a Streamlit-based user interface.
 
 Objectives:
 - Analyze traffic logs from digital systems (routers, SDH, ATS) to detect anomalies.

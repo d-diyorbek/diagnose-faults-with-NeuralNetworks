@@ -1,7 +1,7 @@
 # diagnose-faults-with-NeuralNetworks
 Digital System Fault Diagnosis using Artificial Neural Networks
 Project Overview:
-This project is my Bachelor's Graduation Work (BMI) focused on diagnosing faults in digital telecommunication systems using Artificial Neural Networks (ANN). It includes a complete pipeline from data preprocessing to neural network training and deployment through a Streamlit-based user interface.
+Project includes a complete pipeline from data preprocessing to neural network training and deployment through a Streamlit-based user interface.
 
 Objectives:
 - Analyze traffic logs from digital systems (routers, SDH, ATS) to detect anomalies.

@@ -17,8 +17,8 @@ Key Features:
 - Dataset built on CICIDS 2017 and synthetic extensions for telecom use cases.
 - Scalable architecture for future integration with real-time monitoring tools.
 
-🛠️ Tech Stack
-Python (NumPy, Pandas, Scikit-learn, TensorFlow)
-Streamlit for frontend UI
-Matplotlib & Seaborn for data visualization
-CSV-based logs for training and testing
+🛠️ Tech Stack:
+- Python (NumPy, Pandas, Scikit-learn, TensorFlow)
+- Streamlit for frontend UI
+- Matplotlib & Seaborn for data visualization
+- CSV-based logs for training and testing
